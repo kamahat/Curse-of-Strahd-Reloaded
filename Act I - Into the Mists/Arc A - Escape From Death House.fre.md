@@ -10,7 +10,7 @@
 > [!warning]+ **Une aventure de second niveau***
 > Rappelez-vous que, contrairement à l'aventure originale de la Malédiction de Strahd, les joueurs de ce guide commencent au second niveau, et non 1er premier.
 
-Les joueurs commencent dans la ville de [Daggerford](https://forgottenrealms.fandom.com/wiki/Daggerford) la nuit précédant le [Highharvesttide](https://forgottenrealms.fandom.com/wiki/Highharvestide), un festin annuel et une célébration de vacances. Les auberges locales sont pleines pour la nuit et les joueurs - des vagabonds sans beaucoup d'argent ni de compagnie - trouvent refuge dans l'écurie de la Bride du Cauchemar, une taverne délabrée à la périphérie de la ville.
+Les joueurs commencent dans la ville de [Daggerford](https://forgottenrealms.fandom.com/wiki/Daggerford) la nuit précédant la Grande Fête de la fin des Vendanges [Highharvesttide](https://forgottenrealms.fandom.com/wiki/Highharvestide), un festin annuel et un jour de célébration. Les auberges locales sont pleines pour la nuit et les joueurs - des vagabonds sans beaucoup d'argent ni de compagnie - trouvent refuge dans l'écurie de la Bride du Cauchemar, une taverne délabrée à la périphérie de la ville.
 
 Cependant, lorsque les reliques qu'ils portent sentent la présence de la Funeste Demeure, les joueurs sont conduits à travers les rues pluvieuses de Daggerford jusqu'au seuil de la maison.
 
