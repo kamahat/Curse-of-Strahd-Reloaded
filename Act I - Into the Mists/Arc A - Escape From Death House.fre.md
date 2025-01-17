@@ -48,6 +48,7 @@ Lorsque les joueurs ont fini de se présenter, lisez :
 <p>La pluie continue de s'abattre sur le toit, mais le vent ne hurle plus, et les joyeux bruits des festivités de Daggerford semblent assourdis et lointains. Les chevaux de l'écurie du dessous s'agitent avec inquiétude, leurs hennissements résonnant bruyamment dans le calme. Un sentiment de malaise envahit le grenier à foin, un frisson froid qui n'a rien à voir avec le vent ou la pluie.</p>
 </div>
 Une à une, les reliques des joueurs réagissent alors comme suit, dans l'ordre.
+
 * ***l'écusson de pierre*** émet un bourdonnement sourd et sent l'aiguille de pin et la terre, ce qui s'intensifie lorsque le cimier est déplacé vers la Funeste Deumeure.
 * ***La lame Cassée*** émet un bourdonnement aigu et se met à trembler violemment, tournant comme une aiguille de boussole en direction de la Funeste Deumeure.
 * ***Lécaille de Dragon***  L'écaille brûle d'un froid glacial, l'une de ses extrémités brillant d'une lumière argentée en direction de la Funeste Deumeure.
@@ -62,6 +63,7 @@ Une à une, les reliques des joueurs réagissent alors comme suit, dans l'ordre.
 * ***L'écharpe du vagabond*** L'écharpe est emportée par le vent, ses motifs se déplacent et tournent dans l'air alors qu'elle tourbillonne dans les rues en direction de laFuneste Deumeure.
 
 Si les joueurs se lancent à leur poursuite, lisez :
+
 <div class="description">
 <p>Vous émergez du grenier à foin dans les brumes tourbillonnantes de l'au-delà, les pierres des rues de Daggerford glissant et luisant sous vos pieds. Les rires et les réjouissances de la ville ne sont plus qu'un écho creux, l'éclat de ses réjouissances étant noyé dans le brouillard qui vous entoure. Le goût de l'air froid et humide est vif sur votre langue, et le son de votre propre respiration est fort dans vos oreilles.</p>
 <p>Vos reliques vous appellent à avancer, les brumes s'écartent pour faire place nette. Vous avancez d'abord lentement, puis plus vite, le cœur battant la chamade. Au fur et à mesure que vous vous enfoncez dans le brouillard, chaque pas vous semble plus lourd, chaque écho de tonnerre est un battement dans cette marche implacable.</p>
@@ -85,10 +87,13 @@ If one or more of your players are using the [[Running the Adventure#Adventure H
 <p>Maintenant, guidés par la faible lueur de vos lanternes, vous traversez les rues pavées, lisses et enveloppées de brouillard. Les réjouissances lointaines contrastent fortement avec le calme inquiétant qui règne autour de vous. Le monde est réduit à des chuchotements étouffés et au tambourinement régulier de la pluie, une sombre sérénade pour votre périlleux voyage</p>
 <p>Et puis, comme pour répondre à un appel inexprimé, les brumes se dissipent, révélant la sinistre silhouette de votre destination : la « Funeste Demeure ». Sa façade de pierre sombre et ses flèches imposantes se profilent de manière inquiétante dans le ciel balayé par la tempête, comme un défi sans paroles lancé à votre détermination.</p>
 </div>
+
 ## A2a. The Arrival
-### Entrance
+### Entrée
 <span class="citation"><em>Cette scène se déroule à in Appendix B: Area 1.</em></span>
+
 Lisez à tous les Joueurs le texte suivant :
+
 <div class=description>
 <p>Un grand manoir se dresse devant vous, quatre étages de pierres froides tachées de suie, de hautes fenêtres étroites et de toits à pics élevés formant un tableau d'une grandeur austère et effrayante. À mi-hauteur, un étroit balcon se détache du troisième étage, offrant un perchoir sinistre d'où l'on peut surveiller les environs.</p>
 <p>La pièce maîtresse de cette imposante façade est le portique, un arc de pierre qui se dresse en sentinelle devant les portes en chêne de la maison. Une grille en fer forgé remplit cet arc, ses gonds rouillés grinçant lorsqu'elle se balance dans le vent.</p>
