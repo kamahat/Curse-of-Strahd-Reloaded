@@ -237,30 +237,30 @@ Cette pièce est en grande partie telle que décrite dans <span class="citation"
 Un joueur qui consomme la nourriture ne subit aucun effet néfaste.
 
 
-### Kitchen and Pantry
+### Cuisine et garde-manger
 <span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
 
-This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">Cuisine et garde-manger (p. 213)</span>. When the players enter this room, read:
 
 <div class="description">
 <p>You enter a tidy kitchen, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
 <p>In the front right-hand corner of the room stands a small wooden door set into the wall.</p>
 </div>
 
-If the players inspect the cookware, they find that the largest kitchen knife is missing.
+Si les joueurs inspectent les ustensiles de cuisine, ils constatent que le plus grand couteau de cuisine a disparu.
 
-A player who enters the pantry finds that one of the shelves contains a set of beautiful decorative plates painted with pictures of windmills. One of the plates appears to have been knocked off of the shelf and lies in shattered pieces on the floor, leaving an empty spot in the row of plates.
+Un joueur qui entre dans le garde-manger découvre que l'une des étagères contient un ensemble de belles assiettes décoratives peintes avec des images de moulins à vent. L'une des assiettes semble avoir été renversée de l'étagère et repose en morceaux sur le sol, laissant un espace vide dans la rangée d'assiettes.
 
-A few inches behind the empty spot on the shelf sits an antique copper pot, its lid slightly ajar. Peeking out from beneath the lid is the cork of what appears to be a bottle of wine.
+À quelques centimètres derrière l'espace vide sur l'étagère se trouve une marmite en cuivre antique, son couvercle légèrement entrouvert. Sous le couvercle, on voit le bouchon de ce qui semble être une bouteille de vin.
 
-A player who opens the pot finds it to contain a bottle of wine, a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
+Un joueur qui ouvre la marmite découvre qu'elle contient une bouteille de vin, un morceau de dentelle délicate plié, une fiole de poudre séchée brunâtre et un bouquet de tournesols fanés attaché à un petit rouleau de parchemin.
 
-* The wine's label shows that it is from the Wizard of Wines winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
-* The piece of lace bears the initial "K" sewn onto one corner. 
-* A successful DC 14 Intelligence (Nature) check identifies the brown powder as dried silphium, a contraceptive herb. 
-* The parchment scroll reads: "For the light of my life. —G."
+L'étiquette du vin indique qu'il provient du domaine viticole Magicien de la Vigne et fournit le nom du vin : Champagne du le Stomp. (Un joueur qui boit le vin le découvre transformé en vinaigre, comme s'il avait vieilli des siècles par magie en quelques instants.)
+Le morceau de dentelle porte l'initiale "K" cousue sur un coin.
+Un test d'Intelligence (Nature) DD 14 réussi identifie la poudre brune comme étant du silphium séché, une herbe contraceptive.
+Le parchemin indique : "Pour la lumière de ma vie. — G."
+Si les joueurs lisent la note, l'un des couteaux de la cuisine s'envole de son étagère et s'enfonce dans le mur opposé.
 
-If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
 
 ## A2c. The Second Floor
 ### Upper Hall
