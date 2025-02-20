@@ -452,7 +452,8 @@ Cette salle est en grande partie telle que décrite dans <span class="citation">
 </div>
 
 Lorsqu'un joueur s'approche pour la première fois à moins de 1,50 mètres du **balai d'attaque animé**, il attaque par surprise dès qu'il détourne les yeux ou se détourne, le frappant une fois sur la tête. Il revient ensuite immédiatement à sa position initiale, désormais sans toile d'araignée. Lors de ses prochains tours, le balai utilise sa **_multiattaque_** pour continuer à attaquer tout joueur qui ne le regarde pas et qui reste à moins de 1,50 mètre, renonçant aux attaques d'opportunité contre les joueurs qui s'éloignent.
-### Suite de la nourrice
+
+### Suite de la Gouvernante
 <span class="citation"><em>Cette scène se déroule dans l'annexe B : Zone 15.</em></span>
 
 Cette pièce est en grande partie telle que décrite dans <span class="citation">Suite de la nourrice (p. 217)</span>. Lorsque les joueurs y entrent, lisez :
