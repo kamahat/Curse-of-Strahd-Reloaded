@@ -16,7 +16,7 @@ Cependant, lorsque les reliques qu'ils portent sentent la présence de la Funest
 
 Une fois à l'intérieur, les joueurs sont pris au piège et on leur annonce qu'un monstre les chassera dès son réveil. Ils ont six heures pour le trouver et l'apaiser par un sacrifice approprié...ou le tuer. Au fur et à mesure qu'ils explorent la maison, ils découvrent son histoire peu reluisante, ainsi que la véritable identité de la bête qui s'y cache.
 
-Si les joueurs tuent le monstre, la maison commence à s'effondrer, les obligeant à fuir ou à se perdre dans les décombres. En émergeant, ils découvrent que leur environnement a changé, les transportant dans les terres sombres de Barovia.
+Si les joueurs tuent le monstre, la maison commence à s'effondrer, les obligeant à fuir ou à se perdre dans les décombres. En émergeant, ils découvrent que leur environnement a changé, les transportant dans les terres sombres de Barovies.
 
 > [!lore]+ **L'histoire de la maison de la mort**
 > Voir [[Histoire de Barovia#Les premiers disciples de Strahd|Les premiers disciples de Strahd]] pour un récit complet de l'histoire macabre de la Maison de la mort.
@@ -883,10 +883,10 @@ Aucune attaque de **ghasts** si un joueur retire des objets du casier à pied, e
 Cette salle est en grande partie telle que décrite dans <span class="citation">Reliquaire (p. 219)</span>. Lorsque les joueurs entrent dans cette pièce, lisez :
 
 <div class="description">
-<p>Les marches de pierre poussiéreuses descendent au-delà d'un palier et d'un virage jusqu'à ce qu'elles aboutissent à une chambre froide et rectangulaire. Une fine brume flottante s'accroche au sol, et les poutres transversales en bois qui soutiennent le plafond gémissent sous le poids de la maison et du complexe souterrain au-dessus. </p>
-<p>Les murs de cette pièce sont découpés de petites alcôves ciselées, chacune contenant un bibelot ou une relique étrange et effrayante. Un couloir au plafond affaissé sort de la chambre et se courbe hors de vue vers la droite. Au-delà, vous pouvez voir une pente de pierre qui descend dans une eau noire et trouble. Le chant fantomatique que vous avez entendu depuis votre entrée dans le sous-sol est ici le plus fort et semble émaner de l'autre côté d'une herse rouillée et fermée.</p>
+<p>Les marches de pierre poussiéreuses descendent jusqu'à un palier puis trournent pour aboutir à une chambre froide et rectangulaire. Une fine brume flottante s'accroche au sol et les poutres transversales en bois qui soutiennent le plafond gémissent sous le poids de la maison et des niveaux superieurs. </p>
+<p>Les murs de cette pièce sont precés de petites alcôves ciselées, chacune contenant un bibelot ou une relique étrange et effrayante. Un couloir au plafond affaissé sort de la chambre et se courbe hors de vue vers la droite. Au-delà, vous pouvez voir une pente de pierre qui descend dans une eau noire et trouble. Le chant fantomatique que vous avez entendu depuis votre entrée dans les sous-sols est ici le plus fort et semble émaner de l'autre côté d'une herse rouillée et fermée.</p>
 <p>Vous pouvez enfin comprendre les paroles.</p>
-<p>Ils disent, encore et encore, dans un refrain incessant :</p>
+<p>Ils repetent encore et encore, dans un refrain incessant :</p>
 <p>"Il est l'Ancien."</p>
 <p>"Il est la Terre."</p>
 </div>
@@ -897,7 +897,7 @@ Cette salle est en grande partie telle que décrite dans <span class="citation">
 Cette pièce est en grande partie telle que décrite dans <span class="citation">Prison (p. 219)</span>. Lorsque les joueurs entrent dans cette pièce, lisez :
 
 <div class="description">
-<p>Le bruit des chaînes qui s'entrechoquent se mêle à un bruissement silencieux, presque imperceptible, alors que vous contournez le virage pour entrer dans un long cachot obscur. Des chaînes rouillées pendent patiemment des murs, comme si elles attendaient de mordre à nouveau la chair des prisonniers.</p>
+<p>Le cliquetis des chaînes se mêle à un bruissement discret, presque imperceptible, alors que vous contournez le virage pour entrer dans un long cachot obscur. Des chaînes rouillées pendent patiemment aux murs, prêtes à mordre à nouveau la chair des prisonniers.</p>
 </div>
 
 ### Herse
@@ -906,32 +906,32 @@ Cette pièce est en grande partie telle que décrite dans <span class="citation"
 Cette pièce est en grande partie telle que décrite dans <span class="citation">Herse (p. 219)</span>. Lorsque les joueurs approchent de cette zone, lisez :
 
 <div class="description">
-<p>Le sol est submergé sous deux pieds d'eau sombre et trouble qui clapote autour de vos mollets et de vos bottes. Le tunnel en avant est bloqué par une herse en fer rouillé. Au-delà de ses barreaux de fer, vous pouvez distinguer le contour sombre d'une chambre à moitié submergée, une estrade en pierre surélevée et un épais nuage de brume roulante.</p>
+<p>Le sol est submergé par soixante centimètres d'eau sombre et trouble qui clapote autour de vos mollets et de vos bottes. Le tunnel est bloqué par une herse en fer rouillé. Au-delà de ses barreaux de fer, on distingue le contour sombre d'une chambre à moitié submergée, d'une estrade en pierre surélevée et un épais nuage de brume ondulante.</p>
 </div>
 
-La roue en bois qui ouvre la herse reste sur le côté ouest de la porte (c'est-à-dire le côté faisant face à la [[#Chambre rituelle]]). Cependant, le mécanisme à maillons de chaîne permettant d'ouvrir la herse est cassé, ce qui empêche les joueurs de continuer sans la réparer (par exemple, en utilisant le tour de passe-passe de Rose _réparer_) ou en soulevant la herse à la main. (Si les joueurs soulèvent la herse à la main puis la relâchent, son poids la fait se refermer à moins qu'elle ne soit maintenue ouverte.)
+La roue en bois qui ouvre la herse reste sur le côté ouest de la porte (c'est-à-dire le côté faisant face à la [[#Chambre rituelle]]). Cependant, le mécanisme à maillons de chaîne permettant d'ouvrir la herse est cassé, ce qui empêche les joueurs de continuer sans la réparer (par exemple, en utilisant le tour de passe-passe de Rose _réparer_) ou en soulevant la herse à la main Force (Athlétisme) DD20. (Si les joueurs soulèvent la herse à la main puis la relâchent, son poids la fait se refermer à moins qu'elle ne soit maintenue ouverte.)
 ### Chambre rituelle
 <span class="citation"><em>Cette scène se déroule dans l'annexe B : Zone 38.</em></span>
 
-Cette salle est en grande partie telle que décrite dans <span class="citation">Chambre rituelle (p. 219)</span>. L'eau a 60 cm de profondeur et doit être considérée comme un terrain difficile pour les créatures de taille moyenne ou plus petites. L'escalade depuis le bassin jusqu'aux rebords compte également comme un terrain difficile. Lorsque les joueurs entrent dans cette salle, lisez :
+Cette salle est en grande partie telle que décrite dans <span class="citation">Chambre rituelle (p. 219)</span>. L'eau est pronde de a 60 cm et doit être considérée comme un terrain difficile pour les créatures de taille moyenne ou plus petites. L'escalade depuis le bassin jusqu'aux rebords compte également comme un terrain difficile. Lorsque les joueurs entrent dans cette salle, lisez :
 
 <div class="description">
-<p>Les murs de maçonnerie lisses de cette salle de quarante pieds carrés offrent une excellente acoustique. Des piliers de pierre sans relief soutiennent le plafond et une eau trouble recouvre la majeure partie du sol. Des escaliers mènent à des rebords de pierre sèche qui épousent les murs. Au milieu de la salle, d'autres escaliers s'élèvent pour former une estrade octogonale qui s'élève également au-dessus de l'eau. Des chaînes rouillées avec des entraves pendent du plafond, juste au-dessus d'un autel en pierre monté sur l'estrade. L'autel est sculpté de représentations hideuses de goules avides et est taché de sang séché. Un petit paquet blanc repose dessus, entouré de vrilles charnues et palpitantes.</p>
-<p>Les vrilles courent jusqu'à une brèche dans le mur du fond qui mène à une grotte sombre, leurs masses charnues se connectant à une ombre sombre et massive qui se trouve à l'intérieur, sa masse gonflée s'élevant et s'abaissant avec un rythme lent et tremblant.</p>
+<p>Les murs de maçonnerie lisses de cette pièce de douze mètres carrés offrent une excellente acoustique. Des piliers de pierre sans relief soutiennent le plafond, et une eau trouble recouvre la majeure partie du sol. Des escaliers mènent à des rebords de pierres sèches qui épousent les murs. Au milieu de la pièce, d'autres marches s'élèvent pour former une estrade octogonale qui surplombe également l'eau. Des chaînes rouillées, avec leurs fers, pendent du plafond, juste au-dessus d'un autel de pierre monté sur l'estrade. L'autel est sculpté de représentations hideuses de goules avides et est taché de sang séché. Un petit paquet blanc repose dessus, entouré de vrilles charnues et palpitantes.</p>
+<p>Ces vrilles se dirigent vers une brèche dans le mur du fond qui mène à une grotte obscure, leurs masses charnues se connectant à une ombre sombre et massive qui se tient à l'intérieur, sa masse boursouflée s'élevant et s'abaissant à un rythme lent et tremblant.</p>
 <p>Dès que vous mettez le pied dans la chambre, le chant fantomatique que vous avez entendu se tait soudainement.</p>
 </div>
 
-Un joueur qui s'approche de l'autel voit que les mots "NOURRISSEZ-LE" sont gravés sur sa surface de pierre plate juste en dessous du paquet blanc, entouré de plusieurs vrilles charnues incrustées de dents humaines. Les vrilles appartiennent au **monticule de chair** (voir ci-dessous), qui se réveille et attaque si les vrilles sont endommagées.
+Un joueur qui s'approche de l'autel voit que les mots "NOURRISSEZ-LE" sont gravés sur sa surface de pierr, plate juste en dessous du paquet blanc, entouré de plusieurs vrilles charnues incrustées de dents humaines. Ces vrilles appartiennent au **monticule de chair** (voir ci-dessous), qui se réveille et attaque si les vrilles sont endommagées.
 
-Le paquet au sommet de l'autel a la taille et la forme d'un nourrisson enveloppé dans des langes. S'il est déballé, les joueurs découvrent qu'il contient plutôt un poignard rouillé et dentelé taché de rouge de sang ancien.
+Le paquet posé au sommet de l'autel a la taille et la forme d'un nourrisson emmailloté. S'il est déballé, les joueurs découvrent qu'il contient une dague rouillée et dentelée, tachée de sang ancien.
 
-L'ombre sombre dans la grotte est un **monticule de chair** contenant l'esprit et les restes de Walter.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> C'est un monticule gonflé et boursouflé d'os, de chair et de sang qui semble respirer tandis que sa masse monte et descend. Un joueur qui l'observe conclut qu'il semble dormir.
+L'ombre sombre dans la grotte est un **monticule de chair** contenant l'esprit et les restes de Walter.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> C'est un amas gonflé d'os, de chair et de sang qui semble respirer au gré de ses mouvements. Un joueur qui l'observe conclut qu'il semble endormi.
 
-Les ombres des cultistes décrites dans <span class="citation">« Il faut mourir ! » (p. 220)</span> n'apparaissent pas lorsqu'un joueur grimpe sur l'autel. Au lieu de cela, les joueurs ont deux choix : sacrifier une créature vivante sur l'autel ou attaquer le monticule de chair.
+Les ombres des cultistes décrites dans <span class="citation">« Il faut mourir ! » (p. 220)</span> n'apparaissent pas lorsqu'un joueur grimpe sur l'autel. Les joueurs ont alors deux choix : sacrifier une créature vivante sur l'autel ou attaquer le monticule de chair.
 
-Si une créature est sacrifiée sur l'autel, les vrilles du monticule de chair acceptent son cadavre et l'attirent jusqu'à l'antre du monticule. Là, le monticule la dévore avec désordre avant de remettre ses vrilles sur l'autel une fois de plus. Nourrir le monticule ne libère pas les joueurs, car sa faim ne peut être satisfaite.
+Si une créature est sacrifiée sur l'autel, les tentacules du monticule de chair acceptent son cadavre et l'attirent jusqu'à son antre. Là, le monticule le dévore avec acharnement avant de restituer ses tentacules à l'autel. Nourrir le monticule ne libère pas les joueurs, car sa faim est insatiable.
 
-Le monticule de chair se réveille s'il est attaqué. Lorsqu'il le fait, son cri strident fait trembler la terre, envoyant la [[#Herse]] s'écraser au sol si elle a été ouverte et endommageant le mécanisme responsable de son ouverture.
+Le monticule de chair se réveille s'il est attaqué. Lorsqu'il se réveille, son hurlement strident fait trembler la terre, envoyant la [[#Herse]] s'écraser au sol si elle a été ouverte et endommageant le mécanisme responsable de son ouverture.
 
 En combat, le monticule de chair commence sous sa première forme, **le monticule de chair**. Pendant une minute après son réveil, la fonction **_sommeil lourd_** du monticule de chair réduit la puissance de ses actions ***multi-attaques*** sous chacune de ses formes.
 
@@ -1007,7 +1007,7 @@ Une créature engloutie par la première forme du monticule peut entendre le fai
 <h3>Réactions</h3>
 <p>Le monticule de chair peut subir jusqu'à trois réactions par round, mais pas plus d'une par tour. S'il perd ses réactions et n'est pas neutralisé, il perd une réaction à la place.</p>
 <p><strong><em>Silence.</em></strong> En réponse aux dégâts subis par une attaque au corps à corps, le monticule de chair tente d'agripper l'attaquant en utilisant son <strong><em>Clambrage.</em></strong></p>
-<p><strong><em>Rouleaux.</em></strong> En réponse aux dégâts subis par une attaque à distance ou un sort, le monticule de chair se déplace jusqu'à sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité.</p>
+<p><strong><em>Roulade.</em></strong> En réponse aux dégâts subis par une attaque à distance ou un sort, le monticule de chair se déplace jusqu'à sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité. S'il se déplace vers l'attaquant, il peut alors immédiatement tenter de le repousser.</p>
 </div><br>
 
 <div class="statblock">
@@ -1066,7 +1066,7 @@ Une créature engloutie par la première forme du monticule peut entendre le fai
 <p><strong><em>Lancer un jet.</em></strong> En réponse à des dégâts subis par une attaque à distance ou un sort, le monticule se déplace jusqu'à sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité. S'il se déplace vers l'attaquant, il peut alors immédiatement tenter de le pousser.</p>
 </div>
 
-## A2h. Escape From Death House
+## A2h. Echapper à la Funeste Demeure
 Lorsque le **monticule de chair** meurt, les joueurs peuvent entendre le bruit de la porte d'entrée de la maison qui s'ouvre au-dessus d'eux, et l'orage au loin.
 
 Lorsque les joueurs commencent à se diriger vers la sortie, lisez :
@@ -1081,7 +1081,7 @@ Les joueurs doivent fuir la chambre rituelle vers l'[[#Entrée]] de la Maison de
 
 Au lieu de cela, alors que les joueurs s'échappent de la Maison de la Mort en ruine, ils font face à deux obstacles supplémentaires.
 
-***Le fantôme de Gustav.*** Alors que les joueurs se déplacent pour sortir du [[#Reliquaire]], le fantôme de Gustav Durst (utilisez les statistiques d'un **poltergeist**, mais sans sa fonction ***invisibilité***) les affronte. Lire :
+***Le fantôme de Gustav.*** Alors que les joueurs se déplacent pour sortir du [[#Reliquaire]], le fantôme de Gustav Durst (utilisez les statistiques d'un **poltergeist**<sup><a href="http://dndroll.wikidot.com/creatures:poltergeist"></sup>, mais sans son ***invisibilité***) les affronte. Lire :
 
 <div class="description">
 <p>Une apparition éthérée apparaît devant vous, obstruant les escaliers : le fantôme d'un homme. C'est une silhouette émaciée et pâle, aux yeux enfoncés et hantés et aux mains tremblantes, portant des vêtements autrefois beaux, maintenant en lambeaux avec l'âge.</p>
@@ -1115,25 +1115,25 @@ Les apparitions sont des créatures inoffensives et intangibles qui ne peuvent �
 > Cette rencontre est conçue pour être une menace pour un groupe de cinq joueurs de niveau 2. Pour les groupes de taille beaucoup plus petite, modifiez la rencontre comme suit :
 > * ***Trois joueurs.*** Réduisez les dégâts par tour à 1 contondant.
 
-# A3. À l'extérieur de la Maison de la Mort
+# A3. À l'extérieur de la Funeste Demeure
 Lorsque les joueurs sortent de la Maison de la Mort, la tempête au-dessus d'eux s'est ralentie jusqu'à devenir une simple bruine et les brumes autour de la maison ont disparu. La nuit est tombée depuis longtemps et la lune décroissante est haute dans le ciel.
 
-Le plus surprenant est que les joueurs se trouvent maintenant dans une clairière forestière sombre au début de la <span class="citation">Old Svalich Road (p. 33)</span>, plutôt que dans les rues de Daggerford. La route se dirige vers l'ouest. À l'est se trouvent des bois sombres et sans fin remplis des <span class="citation">Brumes de Ravenloft (p. 23)</span>.
+Le plus surprenant est que les joueurs se trouvent maintenant dans une clairière forestière sombre au début de la <span class="citation">La Vieille route de Svalich (p. 33)</span>, plutôt que dans les rues de Daggerford. La route se dirige vers l'ouest. À l'est se trouvent des bois sombres et sans fin remplis des <span class="citation">Brumes de Ravenloft (p. 23)</span>.
 
 La maison s'effondre alors dans la terre, laissant derrière elle un gouffre sombre et sans fond. Si les joueurs l'ont toujours, l'éclat d'ambre d'Elisabeth Durst tombe alors en poussière. Le gouffre disparaît la première fois que les joueurs quittent la clairière.
 
-S'ils possèdent toujours les joueurs, les esprits de Rose et de Thornboldt mettent fin à leurs possessions. Les enfants remarquent que les bois ressemblent aux bois de Svalich, qui entouraient autrefois leur maison, Barovia. Cependant, les enfants ajoutent que ces bois particuliers ne leur sont pas familiers et qu'ils semblent être loin du village d'origine de leur famille.
+S'ils possèdent toujours les joueurs, les esprits de [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] et de [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] mettent fin à leurs possessions. Les enfants remarquent que la forêt ressemble à celle de Svalich, qui entourait autrefois leur foyer, Barovie. Cependant, ils ajoutent que cette forêt leur est inconnue et qu'elle semble éloignée du village d'origine de leur famille.
 
-Alors que les joueurs explorent leur environnement, ils peuvent rapidement voir le sommet d'une vieille tour de pierre en ruine émerger de la cime des arbres. L'architecture de la tour est telle que décrite dans <span class="citation">Will-o'-Wisp (p. 33)</span>, mais l'intérieur n'est pas un terrain profané, il n'y a pas de coffre en bois sur le sol et il n'y a pas de **zombies** ou de **feux follets** à l'intérieur ou autour de la tour.
+Alors que les joueurs explorent leur environnement, ils peuvent rapidement voir le sommet d'une vieille tour de pierre en ruine émerger de la cime des arbres. L'architecture de la tour est telle que décrite dans <span class="citation">Feu Follet (p. 31)</span>, mais l'intérieur n'est pas un terrain profané, il n'y a pas de coffre en bois sur le sol et il n'y a pas de **zombies** ou de **Feux follets** à l'intérieur ou autour de la tour.
 
 Les joueurs peuvent facilement supposer que cette ruine semble être un endroit sûr pour passer la nuit. Rose et Thorn proposent de servir de sentinelles pendant que les joueurs se reposent, surveillant les bois et réveillant les joueurs si des menaces apparaissent.
 
 La nuit se passe sans problème. Lorsque les joueurs se réveillent le lendemain matin, Rose et Thorn demandent aux joueurs s'ils peuvent enterrer leurs restes avant de continuer, afin qu'ils puissent enfin se reposer. (Les esprits des enfants n'iront pas plus loin en Barovie, suppliant plutôt les joueurs de leur permettre de se reposer.) Si les joueurs enterrent leurs restes ici, les esprits des enfants les remercient avant de disparaître.
 
-Les joueurs peuvent trouver le début de la vieille route de Svalich à quelques pas de la tour, à travers les bois. [[Acte I - Dans les brumes/Arc B - Bienvenue à Barovia]] commence alors.
+Les joueurs peuvent trouver le début de la vieille route de Svalich à quelques pas de la tour, à travers les bois. [[Acte I - Dans les brumes/Arc B - Bienvenue en Barovie]] commence alors.
 
 **_Milestone_**. S'échapper de la Maison de la Mort termine une étape de l'histoire. Lorsque le groupe commence son premier long repos après s'être échappé de la maison, attribuez à chaque joueur 400 XP. (Cela devrait permettre aux joueurs de passer au niveau 3.)
-# Notes de conception : Maison de la Mort
+# Notes de conception : La funeste Demeure
 ***L'arrivée.*** La Rose et l'Épine illusoires ont été intentionnellement supprimées de cette version de la Maison de la Mort afin de garantir que les joueurs entrent dans la maison de leur propre gré et fassent confiance aux vrais enfants Durst lorsqu'ils les rencontrent.
 
 Le compte à rebours et le poème ont été ajoutés pour donner aux joueurs une idée claire de la direction et du but à suivre lors de l'exploration de la maison, et pour éviter que les joueurs ne prennent un long repos (et donc ne perturbent l'équilibre des combats ultérieurs) en le faisant.
@@ -1148,7 +1148,7 @@ Le chien Lancelot, un personnage populaire de la communauté, a été volontaire
 
 ***Le grenier.*** Des indices ont été ajoutés pour transmettre le sort de la nourrice et la fondation du culte de Mme Durst.
 
-***Le donjon.*** Plusieurs rencontres dans cette zone ont été modifiées pour réduire la probabilité d'un TPK et pour apprendre aux joueurs à agir avec prudence et à prendre des décisions judicieuses. Dans la chambre rituelle, le culte n'est plus disposé à accepter le sacrifice d'une bête (par exemple Lancelot), ce qui laisse présager que Strahd ne se contentera pas d'Ireena seule. Le **monticule traînant** a été remplacé par un **monticule de chair** en deux étapes, dont les statistiques ont été calibrées pour offrir un combat difficile sans risquer un TPK.
+***Le donjon.*** Plusieurs rencontres dans cette zone ont été modifiées pour réduire la probabilité d'un TPK et pour apprendre aux joueurs à agir avec prudence et à prendre des décisions judicieuses. Dans la chambre rituelle, le culte n'est plus disposé à accepter le sacrifice d'une bête (par exemple Lancelot), ce qui laisse présager que Strahd ne se contentera pas d'Ireena seule. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=tertre-errant>Tertre errant</a> a été remplacé par un **monticule de chair** en deux étapes, dont les statistiques ont été calibrées pour offrir un combat difficile sans risquer un TPK.
 
 ***Évasion de la Maison de la Mort.*** La séquence originale « évasion de la Maison de la Mort » a été remplacée par une paire de rencontres sociales qui récompensent les joueurs pour leur enquête sur l'histoire de la maison et qui servent à préfigurer les caractérisations de Sergi von Zarovich, Lady Fiona Wachter et les épouses et serviteurs de Strahd dans l'aventure à venir.
 

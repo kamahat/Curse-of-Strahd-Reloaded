@@ -13,10 +13,11 @@ The following morning, Ismark asks the players to help bring their father’s re
 # B1. Old Svalich Road
 <span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
-The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
+The journey from [[Arc A - Escape From Death House# A3. À l'extérieur de la Maison de la Mort|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
 This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
 # B2. Gates of Barovia
+![[Gates_of_Barovia.webp]]
 <span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
 
 This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
