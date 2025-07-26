@@ -7,6 +7,7 @@ At St. Andral's Church, the players will be tasked with recovering the stolen bo
 Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, Izek Strazni prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
 
 Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+
 # Milestones
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 
@@ -150,7 +151,7 @@ The players bring Ireena to St. Andral's Church, where Father Petrovich delivers
 
 After accepting the signet ring from Kasimir Velikov, the players visit the Baron's mansion to research its origins. There, Baron Vallakovich agrees to allow them access to his library in exchange for their investigation into a series of paranormal events that have lately plagued the mansion. 
 
-As the players investigate the attic, they meet Victor Vallakovich and the spirit of Stella Wachter, beginning ***Arc I: The Lost Soul.*** The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing Arabelle and retrieving St. Andral's bones.
+As the players investigate the attic, they meet Victor Vallakovich and the spirit of Stella Wachter, beginning [[Arc H - The Lost Soul]]. The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing Arabelle and retrieving St. Andral's bones.
 
 Late that afternoon, the players travel to Szoldar and Yevgeni's dressing shack, where they recruit Szoldar as a guide to Lake Baratok in [[Arc E - The Missing Vistana]]. When they return to the Blue Water Inn, they find that Izek Strazni has ransacked it in search for Ireena.
 ### Neyavr 4
