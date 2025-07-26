@@ -194,7 +194,7 @@ pour célébrer le premier anniversaire du moulin Durst.
 </div>
 
 ![[Durst Invitation.jpg]]
-<span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Durst Invitation" <a href="https://patreon.com/calebisdrawing/"></a></span>
 
 ### Den of Wolves
 <span class="citation"><em>Cette scène se déroule à in Appendix B: Area 3.</em></span>

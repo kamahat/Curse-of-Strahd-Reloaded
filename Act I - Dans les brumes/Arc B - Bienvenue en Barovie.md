@@ -11,7 +11,7 @@ Le lendemain matin, Ismark demande aux joueurs d'aider à transporter la dépoui
 > [!design]+ **Note de conception : Arrivée en Barovia**
 > L'arrivée des joueurs dans le village de Barovie a été considérablement retravaillée pour créer un incident incitatif fort pour la campagne, leur garantissant une raison immédiate et concrète de rechercher la lecture du Tarokka de Madame Eva, une opportunité de nouer des relations avec les villageois de Barovie et des enjeux personnels dans la défaite de Strahd.
 
-![[Map_of_Barovia.webp]]
+[[images/Map_of_Barovia.webp]]
 
 # B1. La vieille route de Svalich
 <span class="citation"><em>Cette scène se déroule dans le chapitre 2 : Zone A.</em></span>
@@ -20,7 +20,7 @@ Le voyage de [[Arc A - Echapper à la Funeste Demeure# A3. À l'extérieur de la
 
 Cette scène se déroule comme décrit dans <span class="citation">La vieille Route de Svalich (p. 33)</span>.
 # B2. Les Portes de Barovie
-![[Gates_of_Barovia.webp]]
+[[images/Gates_of_Barovia.webp]]
 <span class="citation"><em>Cette scène se déroule dans le chapitre 2 : Zone B.</em></span>
 
 Cette scène se déroule dans <span class="citation">Les Portes de Barovie (p. 33)</span>.
@@ -86,7 +86,10 @@ Les joueurs émergent des bois de Svalich 2 kilometres et vingt minutes après a
 </div>
 
 Le trajet jusqu'aux abords du village est long de trois kilomètres et dure quarante minutes.
+
 # B5. Village de Barovie
+
+[[images/Village_of_Barovia.webp]]
 
 > [!info]+ **Le village fortifié**
 > Le village de Barovia a été lourdement fortifié pour se défendre contre le siège nocturne de Strahd. Des barricades composées de rondins, de planches et de meubles cassés ont été érigées à chaque entrée principale du village, et des obstacles supplémentaires ont été dressés dans chaque ruelle ou espace entre les maisons des villageois. Une tranchée a été creusée autour du village et plantée de pieux acérés, et des archers patrouillent sur les toits à toute heure du jour et de la nuit.
@@ -134,13 +137,13 @@ Après avoir confirmé que la barricade est presque réparée, Ismark invite les
 
 Si les joueurs sont d'accord, Muriel les suit jusqu'à la place du village, restant en l'air et observant la scène avec un vif intérêt.
 
-> [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
+> [!abstract]+ **Le Corbeau**
+> Ismark ignore que le corbeau à ailes bleues est un corbeau-garou et ignore si quelqu'un lui a donné un nom. Il croit cependant que sa présence est de bon augure et partage la superstition sur les corbeaux décrite dans <span class="citation">Croyances et superstitions (p. 28)</span>. (Cette superstition est partagée par tous les Baroviens, pas seulement par les Vistanis.)
 
-> [!design]+ **Design Note: Entering the Village**
-> This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
+> [!design]+ **Note de conception : Entrée dans le village**
+> Cette scène a été écrite pour transmettre immédiatement la méfiance des villageois, établir Ismark comme un allié sympathique et présenter le **serpent-garou** Muriel Vinshaw et les corbeaux de Barovie, préfigurant ainsi les Gardiens de la Plume.
 >
-> Muriel will later reappear in [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
+> Muriel réapparaîtra plus tard dans l'[[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C3. Les Strix|Arc C - Dans la Vallée]], fuyant une **strix supérieure** après avoir espionné la rencontre de Strahd avec Madame Eva, et accompagnera les joueurs jusqu'à la ville de Vallaki pendant le reste de l'Arc C. Muriel apparaîtra également sous sa forme humaine et son personnage dans l'[[Arc J - La Gemme Volée#Rencontre avec Muriel|Arc J - La Gemme Volée]] pour accompagner les joueurs dans leur voyage vers le domaine viticole du Magicien des Vins, et révélera sa véritable nature lycanthropique à l'[[Arc J - La Gemme Volée#Les Provocations de Ludmilla|La Colline d'hier]].
 ## B5b. The Town Square
 As the players and Ismark pass through the village streets, read:
 
