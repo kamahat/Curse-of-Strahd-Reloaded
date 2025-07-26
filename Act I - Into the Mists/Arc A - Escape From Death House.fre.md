@@ -378,8 +378,8 @@ Alors que les joueurs montent l'escalier en colimaçon jusqu'au troisième étag
 Cette pièce est en grande partie telle que décrite dans <span class="citation">Balcon (p. 214)</span>. Lorsque les joueurs entrent dans cette pièce, lisez :
 
 <div class="description">
-<p>Vous montez l'escalier en marbre rouge jusqu'à sa pleine hauteur, arrivant sur un balcon poussiéreux. L'air ici est sec et moisi, mais teinté d'une étrange odeur cuivrée. </p>
-<p>Une armure en plaques noires se dresse contre un mur, drapée de toiles d'araignées et marquée par l'âge. Des lampes à huile sont montées sur les murs en panneaux de chêne décolorés, qui sont sculptés de scènes forestières d'arbres, de feuilles qui tombent et de petites bêtes.
+<p>Vous montez l'escalier en marbre rouge de toute sa largeur jusqu'en haut, arrivant sur un balcon poussiéreux. L'air ici est sec et moisi, mais teinté d'une étrange odeur cuivrée. </p>
+<p>Une armure en plaques noires se dresse contre un mur, drapée de toiles d'araignées et marquée par l'âge. Des lampes à huile sont montées sur les murs en panneaux de chêne décolorés, qui sont sculptés de scènes forestières d'arbres, de feuilles qui tombent et de petites bêtes.</p>
 
 Lorsqu'elle est déclenchée, l'**armure animée** utilisera une ou les deux de ses attaques **_multiattack_** pour tenter de pousser un joueur par-dessus la balustrade en utilisant une attaque ***poussée***, ou tenter d'agripper sa cible la plus proche avant de le pousser à terre.
 
@@ -401,24 +401,24 @@ Lorsqu'un joueur s'approche de cette porte pour la première fois, lisez :
 <div class="description">
 <p>Ces grandes portes se dressent hautes, leurs cadres en bois sombre enfermant une paire de vitraux poussiéreux. Chaque panneau est gravé de motifs complexes qui ressemblent à des moulins à vent, leurs teintes autrefois vibrantes sont désormais fanées et obscurcies par un épais voile de crasse.</p>
 <p>À travers la brume poussiéreuse qui pique vos yeux, vous apercevez quelque chose à travers les fenêtres : une silhouette, debout à quelques centimètres derrière la vitre, éclairée par derrière par une faible lueur ambrée. Elle est immobile et immobile, mais sa simple vue saisit vos muscles dans une étau, vos membres refusant d'obéir à votre esprit conscient.</p>
-<p>L'air autour de vous s'épaissit, sa température chute jusqu'à un froid glacial. Votre souffle embue les vitres, un givre délicat les recouvre tandis que les craquements et les murmures lointains de la maison sont engloutis par un lourd silence.
+<p>L'air autour de vous s'épaissit, sa température chute jusqu'à un froid glacial. Votre souffle embue les vitres, un givre délicat les recouvre tandis que les craquements et les murmures lointains de la maison sont engloutis par un lourd silence.</p>
 
-<p>L'ombre derrière la porte est presque informe, insubstantielle, mais sa présence évoque une terreur primordiale au plus profond de votre moelle. Votre cœur bat plus vite, la sueur perle sur votre front, le pouls s'emballe dans vos veines. Lentement, la silhouette commence à tourner la tête vers la vôtre.
+<p>L'ombre derrière la porte est presque informe, insubstantielle, mais sa présence évoque une terreur primordiale au plus profond de votre moelle. Votre cœur bat plus vite, la sueur perle sur votre front, votre pouls s'emballe dans vos sangs. Lentement, la silhouette commence à tourner la tête vers la vôtre.</p>
 
-<p>Et puis, aussi soudainement qu'elle est apparue, l'ombre s'évapore. Le froid mordant reflue et les sons calmes de la maison reviennent une fois de plus.
+<p>Et puis, aussi soudainement qu'elle est apparue, l'ombre s'évapore. Le froid mordant reflue et les sons calmes de la maison reviennent une fois de plus.</p>
 
 </div>
 
 Cette pièce est en grande partie telle que décrite dans <span class="citation">Master Suite (p. 214)</span>. Lorsque les joueurs entrent dans cette pièce, lisez :
 
 <div class="description">
-<p>Vous entrez dans une chambre principale poussiéreuse et remplie de toiles d'araignées avec des rideaux bordeaux couvrant les fenêtres. Un lit à baldaquin avec des rideaux brodés et des voiles en lambeaux se dresse contre le mur central.
+<p>Vous entrez dans la chambre principale, poussiéreuse et remplie de toiles d'araignées avec des rideaux bordeaux couvrant les fenêtres. Un lit à baldaquin avec des rideaux brodés et des voiles en lambeaux se dresse contre le mur central.</p>
 
-Une porte faisant face au pied du lit est surmontée d'un miroir délavé. Dans le coin droit de la pièce se trouve une petite porte en bois, dont la surface est à moitié pourrie par le temps. Un bouton en métal terni est encastré dans le mur à côté.
+<p>Une porte faisant face au pied du lit est surmontée d'un miroir délavé. Dans le coin droit de la pièce se trouve une petite porte en bois, dont la surface est à moitié pourrie par le temps. Un bouton en métal terni est encastré dans le mur à côté.</p>
 
-Un tapis en peau de tigre pourri repose sur le sol devant la cheminée, au-dessus de laquelle est suspendu un portrait couvert de poussière de l'homme et de la femme du portrait du premier étage. Un salon rempli de toiles d'araignées dans le coin sud-ouest contient deux chaises et une table contenant plusieurs objets, ainsi qu'une porte avec une fenêtre sombre et tachetée de saleté.
+<p>Un tapis en peau de tigre pourri repose sur le sol devant la cheminée, au-dessus de laquelle est suspendu un portrait couvert de poussière de l'homme et de la femme du portrait du premier étage. Un salon rempli de toiles d'araignées dans le coin sud-ouest contient deux chaises et une table contenant plusieurs objets, ainsi qu'une porte avec une fenêtre sombre et tachetée de saleté.</p>
 
-La pièce contient également une paire d'armoires assorties, une chaise rembourrée et une coiffeuse avec un miroir à cadre en bois et une boîte à bijoux en argent. Une douce lueur ambrée émane de sous le couvercle du coffret à bijoux.</p>
+<p>La pièce contient également une paire d'armoires assorties, une chaise rembourrée et une coiffeuse avec un miroir à cadre en bois et une boîte à bijoux en argent. Une douce lueur ambrée émane de sous le couvercle du coffret à bijoux.</p>
 </div>
 
 ***Le lit.*** Un joueur qui s'approche du lit peut voir qu'un grand couteau de cuisine taché de sang a été enfoncé dans l'un des oreillers.
@@ -451,7 +451,7 @@ Cette salle est en grande partie telle que décrite dans <span class="citation">
 <p>Des étagères poussiéreuses tapissent les murs de cette pièce. Quelques-unes d'entre elles sont recouvertes de draps pliés, de couvertures et de vieux pains de savon. Un balai recouvert de toiles d'araignées est appuyé contre le mur du fond.</p>
 </div>
 
-Lorsqu'un joueur s'approche pour la première fois à moins de 1,50 mètres du **balai d'attaque animé**, il attaque par surprise dès qu'il détourne les yeux ou se détourne, le frappant une fois sur la tête. Il revient ensuite immédiatement à sa position initiale, désormais sans toile d'araignée. Lors de ses prochains tours, le balai utilise sa **_multiattaque_** pour continuer à attaquer tout joueur qui ne le regarde pas et qui reste à moins de 1,50 mètre, renonçant aux attaques d'opportunité contre les joueurs qui s'éloignent.
+Lorsqu'un joueur s'approche pour la première fois à moins de 1,50 mètres du **balai d'attaque animé**, il attaque par surprise dès qu'il détourne les yeux ou se détourne, le frappant une fois sur la tête. Il revient ensuite immédiatement à sa position initiale, désormais sans toile d'araignée. Lors de ses prochains tours, le balai utilise son **_multiattaque_** pour continuer à attaquer tout joueur qui ne le regarde pas et qui reste à moins de 1,50 mètre, renonçant aux attaques d'opportunité contre les joueurs qui s'éloignent.
 
 ### Suite de la Gouvernante
 <span class="citation"><em>Cette scène se déroule dans l'annexe B : Zone 15.</em></span>
@@ -469,7 +469,7 @@ Cette pièce est en grande partie telle que décrite dans <span class="citation"
 
 ***Les portes.*** Un joueur qui sort de la chambre par les portes vitrées et sur le balcon ne voit qu'un mur de vrilles charnues englobant l'extérieur de la maison. Les vrilles sont telles que décrites dans [[#Main Hall]].
 
-***Le livre.*** Le livre est une copie en toile d'araignée d'un roman d'amour torride intitulé *Blue-Blooded Lips*. Il raconte l'histoire de la romance d'une paysanne avec un duc riche.
+***Le livre.*** Le livre est une copie en toile d'araignée d'un roman d'amour torride intitulé *Les Lèvres de Sang Bleu*. Il raconte l'histoire de la romance d'une paysanne avec un duc riche.
 
 ***La chambre d'enfant.*** La porte de la chambre d'enfant est fermée. Un joueur qui s'approche de la porte entend le fredonnement discret d'une jeune femme. (Un joueur qui a déjà lu ou entendu la chanson dans le [[#Conservatoire]] reconnaît la mélodie comme *Valse pour Klara*.)
 
@@ -576,7 +576,7 @@ En plus de ses tours de passe-passe, le journal intime de Rose, vieux et décolo
 
 Rose connaît le chemin vers le sous-sol, mais « n'est pas censée y aller ». Si le groupe la convainc de leur montrer le chemin, elle leur indique la maison de poupée, révélant l'entrée secrète. En échange, elle demande aux joueurs de prendre ses os et ceux de Thorn avec eux lorsqu'ils s'échapperont, en les enterrant dans le jardin à l'extérieur.
 
-La maison de poupée contient de petites poupées qui représentent de minuscules moules tordus de tous les personnages et créatures actuellement visibles dans la maison. Les poupées sont faites de résine peinte. Tout personnage regardant à l'intérieur de la maison de poupée alors qu'il se trouve dans la chambre de Rose et Thorn peut voir les poupées placées de manière appropriée de toutes les créatures vivantes du manoir. La maison de poupée ne contient que des pièces à l'intérieur de la maison elle-même et ne représente pas les niveaux du donjon en dessous.
+La maison de poupée contient de petites poupées qui représentent de minuscules moules deformés de tous les personnages et créatures actuellement visibles dans la maison. Les poupées sont faites de résine peinte. Tout personnage regardant à l'intérieur de la maison de poupée alors qu'il se trouve dans la chambre de Rose et Thorn peut voir les poupées placées de manière appropriée de toutes les créatures vivantes du manoir. La maison de poupée ne contient que des pièces à l'intérieur de la maison elle-même et ne représente pas les niveaux du donjon en dessous.
 
 Lorsque la porte secrète est révélée, Thorn demande timidement aux joueurs si lui et Rose peuvent les accompagner en bas pour les aider, et tente de posséder un joueur amical si cela est autorisé. Lorsque Rose ou Thorn tente de posséder un joueur, décrivez-le comme « la petite main d'un enfant, cherchant désespérément le contact d'une autre âme ».
 
